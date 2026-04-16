@@ -1,0 +1,149 @@
+---
+title: "Práctica: Cálculo de Probabilidades"
+lang: es
+format: 
+  html:
+    theme: lumen
+    embed-resources: true
+    toc: true
+---
+
+## Ejercicio N° 1
+
+En una plataforma de streaming se muestran recomendaciones personalizadas. Un usuario recibe una lista de 4 series distintas, de las cuales decide ver una al azar.
+
+Las series son:
+
+- Ciencia ficción
+- Documental
+- Comedia
+- Drama
+
+Considere el experimento aleatorio consistente en *seleccionar al azar una de las 4 series para mirar*. 
+
+a) ¿Cuál es el espacio muestral asociado?
+
+b) Calcule la probabilidad de que el usuario elija una serie de comedia o drama.
+
+c) Considere los siguientes sucesos:
+
+    $A$: *el usuario elige una serie de comedia o drama*
+
+    $B$: *el usuario elige una serie que no es documental*
+
+    i. Defina por extensión cada uno de los sucesos.
+
+    ii. Defina por extensión el suceso contrario a $A$
+    
+    iii. ¿$A$ y $B$ son mutuamente excluyentes? Justifique.
+
+d) Ahora considere un nuevo experimento aleatorio en el que dos personas, de manera independiente, eligen al azar una de las 4 series.
+
+    i. Defina el espacio muestral asociado.
+
+    ii. Calcule la probabilidad de que ambas personas elijan la misma serie.
+
+
+## Ejercicio N° 2
+
+En una red social se analiza el comportamiento de los usuarios respecto de dos acciones:
+
+- activar las notificaciones de la app  
+- compartir contenido con otros usuarios  
+
+A partir de un estudio sobre el uso de la plataforma, se obtuvo la siguiente información:
+
+- El 60% de los usuarios activa las notificaciones.  
+- El 50% de los usuarios comparte contenido.  
+- El 80% de los usuarios realiza al menos una de estas dos acciones.
+
+Sean los sucesos:
+
+$N$: el usuario activa las notificaciones  
+$C$: el usuario comparte contenido
+
+a) Calcule la probabilidad de que un usuario **active las notificaciones y comparta contenido**.
+
+b) ¿Los sucesos $N$ y $C$ son independientes? Interprete el resultado obtenido en términos del comportamiento de los usuarios.
+
+## Ejercicio N° 3
+
+La dirección de una cafetería quiere analizar los patrones de consumo de sus clientes. Para ello, se registró la bebida elegida por un conjunto de 100 clientes diferentes y el momento del día en que realizaron el pedido. La información se resume en la siguiente tabla:
+
+| Bebida   | Mañana | Tarde | Noche | **Total** |
+|----------|--------|-------|-------|-------|
+| Café     | 30     | 15    | 5     | 50    |
+| Té       | 10     | 15    | 5     | 30    |
+| Jugo     | 5      | 10    | 5     | 20    |
+| **Total**| 45     | 40    | 15    | 100   |
+
+a) Estime la probabilidad de que un cliente de la cafetería seleccionado al azar:
+
+    i. elija café
+    
+    ii. realice su pedido por la noche
+    
+    iii. elija café o té 
+    
+    iv. realice su pedido por la mañana y elija café 
+    
+    v. realice su pedido por la tarde o elija jugo 
+    
+b) Estime la probabilidad de que un cliente que realiza su pedido por la mañana elija café.
+
+c) A partir de la tabla, ¿le parece razonable suponer que la bebida elegida es independiente del momento del día?
+
+
+## Ejercicio N° 4
+
+En una feria de juegos, un participante puede ganar premios según los resultados obtenidos al lanzar uno o dos dados equilibrados de seis caras.
+
+### Parte 1: Un dado (🎲)
+
+En un primer juego, el participante lanza un dado y se observa el número obtenido.
+
+a) Defina el experimento aleatorio y el espacio muestral asociado.
+
+b) Calcule la probabilidad de que el número obtenido sea:
+
+    i. mayor o igual a 2  
+
+    ii. par  
+    
+    iii. múltiplo de 3  
+
+    iv. menor que 5  
+    
+
+### Parte 2: Dos dados (🎲🎲)
+
+En un segundo juego, el participante lanza dos dados y se observan los valores obtenidos en cada uno.
+
+a) Defina el espacio muestral asociado.
+
+b) Calcule la probabilidad de que:
+
+    i. uno de los dados sea un 4 y el otro un 6
+    
+    ii. ambos dados muestren el mismo número  
+
+    iii. ninguno de los dados muestre un número par  
+
+    iv. el primer dado muestre un número mayor que el segundo  
+    
+
+### Parte 3: Suma de los valores  (🎲➕🎲 )
+
+En este caso, se vuelve a lanzar dos dados, pero ahora se observa la **suma de los valores obtenidos**.
+
+a) Indique los posibles valores que puede tomar la suma.
+
+b) Calcule la probabilidad de que la suma sea:
+
+    i. igual a 7  
+
+    ii. mayor o igual a 10  
+
+    iii. un número par  
+
+c) ¿Todos los valores posibles de la suma tienen la misma probabilidad? Justifique.
