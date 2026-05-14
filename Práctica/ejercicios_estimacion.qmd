@@ -10,7 +10,7 @@ format:
 
 ## Ejercicio N° 1
 
-Un grupo de biólogos estudia la longitud de peces adultos de una especie que habita en un lago. Por investigaciones previas se sabe que esta variable sigue una distribución normal con desviación estándar poblacional 0.6 cm, pero se desconoce la longitud promedio poblacional. Se selecciona una muestra aleatoria de 25 ejemplares y se registra la longitud (en cm) de cada uno. Los datos se encuentran en el archivo `peces.xlsx`.
+Un grupo de biólogos estudia la longitud de peces adultos de una especie que habita en un lago. Por investigaciones previas se sabe que esta variable sigue una distribución normal con desviación estándar poblacional 0.6 cm, pero se desconoce la longitud promedio poblacional. Se selecciona una muestra aleatoria de 25 ejemplares y se registra la longitud (en cm) de cada uno. Los datos se encuentran en el archivo [`peces.xlsx`](https://docs.google.com/spreadsheets/d/1dY6kNuctfSkCV9WFi6GK6xwSzmoE0o-7/edit?usp=sharing&ouid=117972151796590988559&rtpof=true&sd=true).
 
 a) Identifique la población de interés y la variable aleatoria en estudio. ¿Qué tipo de variable es?
 
@@ -25,7 +25,7 @@ e) Suponga que los biólogos quieren planificar un nuevo estudio y desean estima
 
 ## Ejercicio N° 2
 
-En el marco de un estudio sobre el desempeño de estudiantes de nivel secundario, se administró una prueba estandarizada de razonamiento lógico a una muestra aleatoria de 18 estudiantes de una región. Se registró el tiempo (en minutos) que cada estudiante tardó en completar la prueba. Los datos se encuentran en el archivo `estudiantes.csv`.
+En el marco de un estudio sobre el desempeño de estudiantes de nivel secundario, se administró una prueba estandarizada de razonamiento lógico a una muestra aleatoria de 18 estudiantes de una región. Se registró el tiempo (en minutos) que cada estudiante tardó en completar la prueba. Los datos se encuentran en el archivo [`estudiantes.csv`](https://drive.google.com/file/d/17n9p6VE_S34VlCw3nMfdKX2AK2ekFxpc/view?usp=sharing).
 
 a) Identifique la población de interés y la variable aleatoria en estudio.
 
